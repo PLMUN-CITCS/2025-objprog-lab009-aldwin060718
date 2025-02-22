@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class SwitchStatementDemo {
     public static void main(String[] args) {
 
@@ -50,3 +51,6 @@ switch (studentGrade) {
 
     }
 }
+=======
+
+>>>>>>> 5e8d5ebc00bad07ce70f761040b21f1f3a6030f5
